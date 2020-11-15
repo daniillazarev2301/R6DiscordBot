@@ -1,7 +1,7 @@
 import discord
 import sqlite3
-channel_memory_id = 701698041660309574
-guild_id = 700357287700594708
+channel_memory_id = 736922459605041183
+guild_id = 736922457675399188
 
 def get_channel_memory(bot):
     return bot.get_channel(channel_memory_id)
