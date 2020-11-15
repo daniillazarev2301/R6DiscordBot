@@ -3,8 +3,8 @@ import requests
 import asyncio
 import sqlite3
 
-jager_email = "hunterbot.jager@bk.ru"
-jager_password = "Jagerthebest01"
+jager_email = "daniillazarev2301@gmail.com"
+jager_password = "123450000"
 url_tracker = "https://r6.tracker.network/profile/pc/"
 r6_data = []
 
